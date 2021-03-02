@@ -1,0 +1,18 @@
+{
+    "telemetry.machineId": "8045b2deb07b8961bbeecbbda26837a8e4a42578c12ac736c7a013c839d0cf96",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "2097c7074c82bf3625e2af7c1720389d",
+                "configURIPath": "file:///d%3A/%C4%91%E1%BB%93%20%C3%A1n%20java/.metadata/codemix.code-workspace"
+            },
+            {
+                "id": "71d53cd60cda3b92f42828070368db9d",
+                "configURIPath": "file:///d%3A/DIEMSV/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}
